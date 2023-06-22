@@ -1,6 +1,6 @@
 # Moviz App
 
- <img src="./Screenshots/Movizapp_git_banner.jpg" alt="alt text" height="350">
+ <img src="./Screenshots/Movizapp_git_banner.jpg" alt="alt text" height="400">
 
 Hello Everyone 👋,
 
