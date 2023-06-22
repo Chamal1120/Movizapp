@@ -1,6 +1,6 @@
 # Moviz App
 
- <img src="./Screenshots/Movizapp_git_banner.jpg" alt="alt text" height="400">
+ <img src="./Screenshots/Movizapp_git_banner.jpg" alt="alt text" width="700">
 
 Hello Everyone 👋,
 
@@ -14,7 +14,7 @@ This is my first project on github (Apart from the portfolio, if that counts �
 
 Here are couple of screenshots,
 
- <img src="./Screenshots/ss1.png" alt="alt text" height="160"> <img src="./Screenshots/ss2.png" alt="alt text" height="160">
+ <img src="./Screenshots/ss1.png" alt="alt text" width="330"> <img src="./Screenshots/ss2.png" alt="alt text" width="330">
 
 
  Credits to ❤️,
