@@ -35,7 +35,7 @@ function App() {
         return {
             ...data,
             videos: data.videos.results,
-            credits: data.credits,
+            cast: data.credits.cast,
         };
     };
 
@@ -83,29 +83,20 @@ function App() {
         return null;
     };
 
-    const renderCast = () => {
-        const cast = selectedMovie.credits?.cast;
-
-        if (cast && cast.length > 0) {
-            return (
-                <div className="hero-cast">
-                    <h2 className="hero-cast-title">Starring</h2>
-                    {cast.map((member) => (
-                        <div className="hero-cast-member" key={member.id}>
-                            <img
-                                src={`${IMAGE_PATH}${member.profile_path}`}
-                                alt={member.name}
-                                className="hero-cast-member-image"
-                            />
-                            <p className="hero-cast-member-name">{member.name}</p>
-                        </div>
-                    ))}
+    const renderCast = () => (
+        <div className="hero-cast">
+            {selectedMovie.cast?.slice(0, 5).map((actor) => (
+                <div className="hero-cast-member" key={actor.id}>
+                    <img
+                        className="hero-cast-member-image"
+                        src={`https://image.tmdb.org/t/p/w200${actor.profile_path}`}
+                        alt={actor.name}
+                    />
+                    <span className="hero-cast-member-name">{actor.name}</span>
                 </div>
-            );
-        }
-
-        return null;
-    };
+            ))}
+        </div>
+    );
 
     return (
         <div className="App">
