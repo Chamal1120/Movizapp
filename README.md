@@ -8,9 +8,14 @@ This is my first project on github (Apart from the portfolio, if that counts �
 * Movie Data is fetched using TheMovieDataBase API.
 * Trailers are fetched using Youtube and displayed using react youtube player.
 
-You can preview the app by clicking [Here](https://chamal1120.github.io/Movizapp/ "Go to Moviz app Preview ")
+> You can preview the app by clicking [Here](https://chamal1120.github.io/Movizapp/ "Go to Moviz app Preview ")
 
 Here are couple of screenshots,
 
-![Alt text](https://drive.google.com/file/d/1TifMPuLFMRYZsABQr06MjXvSHvkRtuUx/view?usp=sharing "Optional title")
+ <img src="./Screenshots/ss1.png" alt="alt text" height="200"> <img src="./Screenshots/ss2.png" alt="alt text" height="200">
+
+
+ Credits to ❤️,
+ * [The Movie Database for the API](https://www.themoviedb.org/)
+ * [ChatGPT for asnwering my tiresome questions](https://chat.openai.com/)
 
