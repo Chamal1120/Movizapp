@@ -1,5 +1,7 @@
 # Moviz App
 
+ <img src="./Screenshots/Movizapp_git_banner.jpg" alt="alt text" height="500">
+
 Hello Everyone 👋,
 
 This is my first project on github (Apart from the portfolio, if that counts 😅)
