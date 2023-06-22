@@ -14,7 +14,7 @@ This is my first project on github (Apart from the portfolio, if that counts �
 
 Here are couple of screenshots,
 
- <img src="./Screenshots/ss1.png" alt="alt text" height="200"> <img src="./Screenshots/ss2.png" alt="alt text" height="200">
+ <img src="./Screenshots/ss1.png" alt="alt text" height="160"> <img src="./Screenshots/ss2.png" alt="alt text" height="160">
 
 
  Credits to ❤️,
